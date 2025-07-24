@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Hello folks!👋
 
-My name is Nadim Mansuri.I am currently looking for a job.
+Mern stack Developoer
 
 ## 🔧 Langueages & Tools
 <p align='left'>
